@@ -1,5 +1,7 @@
 ﻿# Charybdis Wireless Mini(Dongle+ZMK) - Assembly & Build Guide
 
+Simulate change.
+
 [![.github/workflows/build.yml](https://github.com/280Zo/charybdis-wireless-mini-zmk-firmware/actions/workflows/build.yml/badge.svg)](https://github.com/280Zo/charybdis-wireless-mini-zmk-firmware/actions/workflows/build.yml)
 
 This comprehensive guide covers the assembly of the **Charybdis Wireless Mini keyboard** with trackball support and the complete firmware building process for both **Bluetooth/USB** and **Dongle** configurations.
